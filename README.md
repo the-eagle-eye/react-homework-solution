@@ -1,4 +1,4 @@
-# React 1 Training Session
+# React Hands on lab
 
 To run the app, just do the following:
 
