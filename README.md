@@ -1,6 +1,6 @@
 # React Hands on lab
 This app is about building a Todo list from scratch using an API to populate some data at the start.
-The app should behave like this ![https://cl.ly/5519269bf2cf/Screen%252520Recording%2525202019-11-20%252520at%25252001.34%252520PM.gif](https://cl.ly/5519269bf2cf/Screen%252520Recording%2525202019-11-20%252520at%25252001.34%252520PM.gif).
+The app should behave like this ![https://cl.ly/15cdcaefa5c7/Screen%252520Recording%2525202019-11-20%252520at%25252001.49%252520PM.gif](https://cl.ly/15cdcaefa5c7/Screen%252520Recording%2525202019-11-20%252520at%25252001.49%252520PM.gif).
 
 To run the app, just do the following:
 
